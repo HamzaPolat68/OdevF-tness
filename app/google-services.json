@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492908839384",
+    "project_id": "odevfitnessapp",
+    "storage_bucket": "odevfitnessapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492908839384:android:d9104091f7400ee7af72ad",
+        "android_client_info": {
+          "package_name": "com.example.odevftnessuygulamas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492908839384-24ultp0lgtu1i3ou6uvs5eeqp60cf8tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIKoRXsJcxPF4cw0EHwnrH5_58R14IFOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492908839384-24ultp0lgtu1i3ou6uvs5eeqp60cf8tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
